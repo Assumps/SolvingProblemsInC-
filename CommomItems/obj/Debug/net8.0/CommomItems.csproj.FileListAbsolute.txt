@@ -1,0 +1,14 @@
+C:\projects\interview\CommomItems\bin\Debug\net8.0\CommomItems.exe
+C:\projects\interview\CommomItems\bin\Debug\net8.0\CommomItems.deps.json
+C:\projects\interview\CommomItems\bin\Debug\net8.0\CommomItems.runtimeconfig.json
+C:\projects\interview\CommomItems\bin\Debug\net8.0\CommomItems.dll
+C:\projects\interview\CommomItems\bin\Debug\net8.0\CommomItems.pdb
+C:\projects\interview\CommomItems\obj\Debug\net8.0\CommomItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\interview\CommomItems\obj\Debug\net8.0\CommomItems.AssemblyInfoInputs.cache
+C:\projects\interview\CommomItems\obj\Debug\net8.0\CommomItems.AssemblyInfo.cs
+C:\projects\interview\CommomItems\obj\Debug\net8.0\CommomItems.csproj.CoreCompileInputs.cache
+C:\projects\interview\CommomItems\obj\Debug\net8.0\CommomItems.dll
+C:\projects\interview\CommomItems\obj\Debug\net8.0\refint\CommomItems.dll
+C:\projects\interview\CommomItems\obj\Debug\net8.0\CommomItems.pdb
+C:\projects\interview\CommomItems\obj\Debug\net8.0\CommomItems.genruntimeconfig.cache
+C:\projects\interview\CommomItems\obj\Debug\net8.0\ref\CommomItems.dll
